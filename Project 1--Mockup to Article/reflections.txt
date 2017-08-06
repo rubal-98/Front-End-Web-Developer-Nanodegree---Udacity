@@ -6,4 +6,7 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-*I have learned alot of skills about html and various tags and syntaxis in html. *Easy part was that whenever i was stuck i could easily browse the solution to my problem. *Trying to make it look exact similar to the mockup has been difficult.  
+  *I have learned alot about the various tags and syntaxis in html.
+  *Easy part was that i could easily look for it in MDN web docs.
+  *Trying to make it look exact similar to the mockup has been difficult.  
+  *
