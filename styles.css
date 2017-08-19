@@ -1,0 +1,36 @@
+/* add your CSS here */
+
+body {
+    margin: 25px 35vw;
+    width: 400px;
+}
+
+img {
+    height: 200px;
+    width: 300px;
+}
+
+.container {
+    border-style: groove;
+    padding: 25px;
+}
+
+.info {
+    border-style: groove;
+    padding: 25px;
+}
+
+.feature {
+    font-style: italic;
+}
+
+.properties {
+    list-style: none;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
+
+.list {
+    font-weight: bold;
+}
