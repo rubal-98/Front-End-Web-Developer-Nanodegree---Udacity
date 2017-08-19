@@ -7,6 +7,6 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
   *I have learned alot about the various tags and syntaxis in html.
-  *Easy part was that i could easily look for it in MDN web docs.
+  *Easy part was that i could easily look for any tags in MDN web docs.
   *Trying to make it look exact similar to the mockup has been difficult.  
-  *
+  *I remained patient and kept myself calm to complete this challenge quickly.
