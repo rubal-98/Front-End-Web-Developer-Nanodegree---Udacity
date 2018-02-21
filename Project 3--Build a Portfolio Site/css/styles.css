@@ -1,0 +1,54 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Lato", sans-serif;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1 {
+    font-size: 55px;
+    line-height: 1.5em;
+}
+
+h3 {
+    text-align: left;
+    font-size: 25px;
+    line-height: 2em;
+}
+
+hr {
+    height: 5px;
+    background-color: grey;
+}
+
+img {
+    margin: auto;
+}
+
+.container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.col-md-9 {
+    text-align: right;
+}
+@media (min-width: 550px) and (max-width: 768px) {
+    h1 {
+        font-size: 25px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+}
